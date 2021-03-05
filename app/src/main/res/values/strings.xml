@@ -11,4 +11,6 @@ limitations under the License. -->
 
 <resources>
     <string name="app_name">About Me</string>
+    <string name="jason_pippin">Jason Pippin</string>
+    <string name="yellow_star">Yellow star.</string>
 </resources>

@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="NameStyle">
+        <item name="android:fontFamily">@font/roboto_italic</item>
+        <item name="android:paddingTop">@dimen/small_padding</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
 </resources>
