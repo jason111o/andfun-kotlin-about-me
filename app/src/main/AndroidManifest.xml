@@ -3,7 +3,7 @@
     package="com.example.android.aboutme">
 
     <!--
-    TODO (01) Create a layout file:
+    TODO DONE (01) Create a layout file:
         In the project file listing, right-clicked res folder and New > Android resource file.
         Familiarized yourself with the New Resource File pane to make the following changes.
         Name: activity_main.xml
