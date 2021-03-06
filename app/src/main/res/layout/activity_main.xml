@@ -20,8 +20,20 @@
         android:contentDescription="@string/yellow_star"
         app:srcCompat="@android:drawable/btn_star_big_on" />
 
-    <!-- TODO (01) Add a ScrollView -->
+    <!-- TODO DONE (01) Add a ScrollView -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
 
-    <!-- TODO (02) Create a TextView with your bio inside the ScrollView -->
+    <!-- TODO DONE (02) Create a TextView with your bio inside the ScrollView -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/large_padding"
+            style="@style/NameStyle"
+            android:text="@string/my_name_is_jason_and_this_is_a_short_bio_about_myself_i_started_out_as_an_embryo_when_i_had_my_first_heartbeat_that_sounded_like_something_trying_to_become_human_n_then_i_realized_at_that_stage_in_my_new_life_that_these_habits_of_old_would_no_longer_be_neccessary_n_so_at_that_point_i_decided_i_should_try_to_break_the_cycle_of_sucking_on_the_bowels_of_the_beholder_and_release_myself_from_the_uncanny_whims_of_a_tired_creature_beating_it_s_chest_to_exemplify_it_s_own_existence_n_so_i_screamed_at_the_womb_of_life_to_open_and_make_way_for_a_breath_of_cool_air_as_i_opened_my_eyes_for_the_first_time_i_saw_that_there_was_no_way_in_the_heavens_that_i_android_should_be_here_n_so_i_done_as_i_should_and_built_an_app_right_there_on_the_spot_in_the_fine_kotlin_language_and_created_my_first_abomination_a_cellura_device_that_i_may_use_as_a_host_for_all_of_my_parasitic_activities_this_would_be_too_easy_and_too_temptming_of_a_great_power_to_abstract_away_the_very_self_thinking_brain_of_the_masses_of_peoples_who_are_always_seeking_some_greater_unification_but_to_no_avail_n_my_goodness_have_i_filled_in_enough_text_already_for_the_scrollview_to_work_even_with_a_smaller_font_size_n_the_end" />
+
+    </ScrollView>
+
 
 </LinearLayout>
